@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "502658630482",
+    "firebase_url": "https://percova-consulting.firebaseio.com",
+    "project_id": "percova-consulting",
+    "storage_bucket": "percova-consulting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502658630482:android:c3d3b15eb91eda5a14308b",
+        "android_client_info": {
+          "package_name": "com.kapadokia.percova"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502658630482-n12a3mc3pq5qj0h1iessnsv255frosao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOcrgGKkcKN45euqFPV3_r9EcRiwRW8pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502658630482-n12a3mc3pq5qj0h1iessnsv255frosao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
